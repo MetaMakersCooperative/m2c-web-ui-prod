@@ -1,3 +1,12 @@
+## Upcoming Events
+
+### Meet Your Makers
+Join us at Sandwich Brewery on Thursday, April 18 at 7:00 pm. 
+3230 Sandwich St, Windsor, ON N9C 1A8
+- Find out what we are all about.
+- Meet fellow makers and founding members.
+- Discover Windsor's first member run makerspace!
+
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who make Makers.
