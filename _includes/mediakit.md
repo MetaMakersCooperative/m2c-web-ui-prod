@@ -11,7 +11,7 @@ Join us at Sandwich Brewery on Thursday, April 18 at 7:00 pm.
 
 ## Sign up
 
-Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a photo of yourself to [membership@metamakers.org](emailto: membership@metamakers.org).
+Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
 
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
