@@ -1,12 +1,12 @@
 ## Upcoming Events
 
-### Meet Your Makers
-Join us at Sandwich Brewery on Thursday, April 18 at 7:00 pm. 
+### Open House Tour
+Join us at Sho Art, Spirit and Performance on Thursday, May 2nd at 7:30 pm for a tour of our future home.
 
-3230 Sandwich St, Windsor, ON N9C 1A8
+628 Monmouth Rd, Windsor, ON N8Y 3J6
 
-- Find out what we are all about.
-- Meet fellow makers and founding members.
+- Meet our partners.
+- See our facilities.
 - Discover Windsor's first member run makerspace!
 
 ## Sign up
