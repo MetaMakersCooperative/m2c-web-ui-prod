@@ -1,14 +1,3 @@
-## Upcoming Events
-
-### Open House Tour
-Join us at Sho Art, Spirit and Performance on Thursday, May 2nd at 7:30 pm for a tour of our future home.
-
-628 Monmouth Rd, Windsor, ON N8Y 3J6
-
-- Meet our partners.
-- See our facilities.
-- Discover Windsor's first member run makerspace!
-
 ## Sign up
 
 Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
