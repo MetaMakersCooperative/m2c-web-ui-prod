@@ -15,7 +15,7 @@ Membership terms are offered on an annual, semi-annual or quarterly basis. Day a
 ## Founders
 
 ### Jo Taylor
-Jo has over five years experience in the Non-profit/charitable sector, including the Royal Astronomical Society of Canada. She is a true Jo of all trades who makes quilts, chocolate, fabric, costumes, audio recordings, stained glass, pottery, cake decorating, painting, woodworking, upcycling, leatherwork, crochet, and design.
+Jo has over seven years experience in the Non-profit/charitable sector, including the Royal Astronomical Society of Canada. She is a true Jo of all trades who makes quilts, chocolate, fabric, costumes, audio recordings, stained glass, pottery, cake decorating, painting, woodworking, upcycling, leatherwork, crochet, and design.
 
 ### Pauline Burnett 
 Pauline is a multimedia maker and founding department manager at Michaels Arts and Crafts Windsor. She was a certified Wilton Industries trainer and cake decorating instructor with over 16 years experience. Her creative passions include wood inlay, pyrography, glass, plaster cast, clay, mosaic tile, pen and ink, watercolour, acrylics, beadwork, jewellery, needlework, knitting, crochet, sewing and home decor.
@@ -31,7 +31,7 @@ Roberto has over 20 years experience in the field of Industrial Automation and i
 
 ## FACILITY FACT SHEET 
 
-M2C is seeking 2000 square feet of workshop space to cater to the following interests:
+M2C is opening soon in Sho Studios located at 628 Monmouth Rd., Windsor. We cater to the following interests:
 - Metalworking
 -	Woodworking
 -	Fibre arts
@@ -40,7 +40,6 @@ M2C is seeking 2000 square feet of workshop space to cater to the following inte
 -	Jewelry
 -	Electronics
 -	Software Development
--	Welding
 -	Glasswork
 -	Pottery
 -	Painting
