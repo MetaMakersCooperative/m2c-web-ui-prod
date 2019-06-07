@@ -52,6 +52,8 @@ M2C is opening soon in Sho Studios located at 628 Monmouth Rd., Windsor. We cate
 -	Computer Aided Manufacturing (CAM/CNC)
 - Podcasting
 
+Our space is currently under construction. Details coming soon!
+![under construction](/assets/images/construction.jpg "Our space is under construction")
 
 ## How to help?
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
