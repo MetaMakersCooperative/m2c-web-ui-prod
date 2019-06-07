@@ -2,11 +2,6 @@
 
 Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
 
-Our membership rates are
-- $480 for 12 months ($40/month)
-- $270 for 6 months ($45/month)
-- $150 for 3 months ($50/month)
-
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who make Makers.
@@ -16,6 +11,10 @@ Members benefit from access to a co-working space with tools and resources that 
 
 Membership terms are offered on an annual, semi-annual or quarterly basis. Day and week passes are also available. Membership is open to anyone 18 years of age or older.
 
+Our membership rates are
+- $480 for 12 months ($40/month)
+- $270 for 6 months ($45/month)
+- $150 for 3 months ($50/month)
  
 ## Founders
 
