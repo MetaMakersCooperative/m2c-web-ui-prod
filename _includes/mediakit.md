@@ -15,7 +15,8 @@ Our membership rates are
 - $480 for 12 months ($40/month)
 - $270 for 6 months ($45/month)
 - $150 for 3 months ($50/month)
- 
+
+
 ## Founders
 
 ### Jo Taylor
