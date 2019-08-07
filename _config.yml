@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Meta Makers Cooperative
 description: Explore. Collaborate. Make.
+
+github:
+  is_project_page: false
