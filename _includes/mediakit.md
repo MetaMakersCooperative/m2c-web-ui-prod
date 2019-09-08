@@ -2,12 +2,6 @@
 
 Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
 
-## Events
-### August Open House
-Please join us on Thursday, August 1st at 7:00pm to see how the makerspace is taking shape and to learn more about upcoming activities.
-
-628 Monmouth Rd, Windsor, ON N8Y 3J6, Canada
-
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who make Makers.
