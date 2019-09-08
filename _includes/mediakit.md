@@ -35,7 +35,8 @@ M2C is opening soon in Sho Studios located at 628 Monmouth Rd., Windsor. We cate
 - Podcasting
 
 Our space is currently under construction. Details coming soon!
-![under construction](/assets/images/construction.jpg "Our space is under construction")
+![under construction](/assets/images/Facilities2.jpg "Our space is under construction")
+![under construction](/assets/images/Facilities.jpg "Our space is under construction")
 
 ## How to help?
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
