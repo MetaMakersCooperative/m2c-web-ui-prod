@@ -1,3 +1,9 @@
+## Events
+
+### Tuesday Open House 
+
+Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.
+
 ## Sign up
 
 Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
