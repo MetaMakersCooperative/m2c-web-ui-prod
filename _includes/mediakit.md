@@ -4,7 +4,7 @@
 
 Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.
 
-<iframe width="100%" height="215" src="https://nextcloud.metamakers.org/index.php/apps/calendar/embed/ZPw8ZB4rdQT8kiDq"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=m2c.membership%40gmail.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Sign up
 
