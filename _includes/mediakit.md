@@ -4,7 +4,7 @@
 
 Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=m2c.membership%40gmail.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/2/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=bTJjLm1lbWJlcnNoaXBAZ21haWwuY29t&amp;color=%23039BE5&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Meta%20Makers%20Cooperative" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 ## Sign up
 
