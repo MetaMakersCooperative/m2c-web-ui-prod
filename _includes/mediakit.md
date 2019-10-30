@@ -4,7 +4,7 @@
 
 Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.
 
-<iframe width="400" height="215" src="https://nextcloud.metamakers.org/index.php/apps/calendar/embed/ZPw8ZB4rdQT8kiDq"></iframe>
+<iframe width="100%" height="215" src="https://nextcloud.metamakers.org/index.php/apps/calendar/embed/ZPw8ZB4rdQT8kiDq"></iframe>
 
 ## Sign up
 
