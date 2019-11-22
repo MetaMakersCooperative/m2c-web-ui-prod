@@ -8,11 +8,11 @@ Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday f
 
 ## Sign up
 
-Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org).
+Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org). To can pay by PayPal, eTransfer (pay@metamakers.org), cash or cheque. Visit on an any Tuesday night from 7:00pm and 9:00pm to pay in person.
 
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
-We are a social enterprise with a diverse array of skilled members who make Makers.
+We are a social enterprise with a diverse array of skilled members who help make Makers.
 
 ## Membership
 Members benefit from access to a co-working space with tools and resources that they might not otherwise have access to. People come for the tools and stay to explore, collaborate and make. It affords them the opportunity to socialize, learn and teach.  Being a cooperative, our members are active and engaged in all aspects of our organization. 
