@@ -45,6 +45,26 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 ![under construction](/assets/images/Facilities2.jpg "Our space is under construction")
 ![under construction](/assets/images/Facilities.jpg "Our space is under construction")
 
+## Supporters
+Thanks to the businesses who have donated supplies and equipment:
+Guardian Glass 
+Bike Windsor
+ReNu Kitchen
+Levigator Press
+D&R Vacuum
+Stiemar Bakery 
+Sho Studios
+
+Thanks to these special people for their equipment donations and support:
+Bill Taylor, Danzig Enterprises
+Jodi Green, Levigator Press
+Andy Jun, ReNu Kitchen
+Bob Regier, D&R Vacuum
+Dan Ketch
+Starr Meloche
+
+Special thanks to all of our members!
+
 ## How to help?
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
 A business can help with the following:
