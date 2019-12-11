@@ -47,13 +47,15 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 
 ## Supporters
 Thanks to the businesses who have donated supplies and equipment:
-- Guardian Glass 
-- Bike Windsor
-- ReNu Kitchen
-- Levigator Press
-- D&R Vacuum
-- Stiemar Bakery 
-- Sho Studios
+
+![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")
+![Fusion Fiber Arts](/assets/images/logos/sho_logo.png "Fusion Fiber Arts")
+![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")
+![Stiemar Bakery](/assets/images/logos/Stiemar_logo.png "Stiemar Bakery")
+![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")
+![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")
+![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")
+![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
