@@ -49,7 +49,7 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 Thanks to the businesses who have donated supplies and equipment:
 
 ![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")
-![Fusion Fiber Arts](/assets/images/logos/sho_logo.png "Fusion Fiber Arts")
+![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")
 ![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")
 ![Stiemar Bakery](/assets/images/logos/Stiemar_logo.png "Stiemar Bakery")
 ![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")
