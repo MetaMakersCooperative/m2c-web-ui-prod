@@ -49,13 +49,13 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 Thanks to the businesses who have donated supplies and equipment:
 
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
-![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")
-![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")
-![Stiemar Bakery](/assets/images/logos/stiemar_logo.png "Stiemar Bakery")
-![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")
-![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")
-![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")
-![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")
+[![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
+[![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")](https://bikewindsoressex.com/)
+[![Stiemar Bakery](/assets/images/logos/stiemar_logo.png "Stiemar Bakery")](http://www.stiemar.com/)
+[![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")](http://renukitchenwindsor.com/)
+[![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
+[![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
+[![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")](https://www.guardianglass.ca/)
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
