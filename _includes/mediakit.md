@@ -51,7 +51,7 @@ Thanks to the businesses who have donated supplies and equipment:
 ![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")
 ![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")
 ![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")
-![Stiemar Bakery](/assets/images/logos/Stiemar_logo.png "Stiemar Bakery")
+![Stiemar Bakery](/assets/images/logos/stiemar_logo.png "Stiemar Bakery")
 ![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")
 ![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")
 ![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")
