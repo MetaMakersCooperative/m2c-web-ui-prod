@@ -65,6 +65,7 @@ Thanks to these special people for their equipment donations and support:
 - Bob Regier, D&R Vacuum
 - Dan Ketch
 - Starr Meloche
+- Nathalie and Tom Griffore
 
 Special thanks to all of our members!
 
