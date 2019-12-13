@@ -56,6 +56,7 @@ Thanks to the businesses who have donated supplies and equipment:
 [![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
 [![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
 [![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")](https://www.guardianglass.ca/)
+[![WE Tech Alliance](/assets/images/logos/wetech_logo.png "WE Tech Alliance")](https://www.wetech-alliance.com/)
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
