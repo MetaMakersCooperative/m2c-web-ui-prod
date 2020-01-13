@@ -66,6 +66,7 @@ Thanks to these special people for their equipment donations and support:
 - Dan Ketch
 - Starr Meloche
 - Nathalie and Tom Griffore
+- Aaron Powers
 
 Special thanks to all of our members!
 
