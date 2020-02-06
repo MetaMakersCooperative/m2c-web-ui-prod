@@ -57,6 +57,8 @@ Thanks to the businesses who have donated supplies and equipment:
 [![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
 [![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")](https://www.guardianglass.ca/)
 [![WE Tech Alliance](/assets/images/logos/wetech_logo.png "WE Tech Alliance")](https://www.wetech-alliance.com/)
+[![Empire Communications](/assets/images/logos/empire-logo.png "Empire Communications")](https://www.empire-team.com/)
+[![Filaments.ca](/assets/images/logos/filaments-logo.png "Filaments.ca")](https://filaments.ca/)
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
