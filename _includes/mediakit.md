@@ -72,6 +72,7 @@ Thanks to these special people for their equipment donations and support:
 - Starr Meloche
 - Nathalie and Tom Griffore
 - Aaron Powers
+- Jeff Luxford
 
 Special thanks to all of our members!
 
