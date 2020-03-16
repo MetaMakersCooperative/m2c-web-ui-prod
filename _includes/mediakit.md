@@ -3,7 +3,7 @@
 ### Tuesday Open House
 
 **Update - Meta Makers Response to COVID-19:**
-Meta Makers is closely monitoring the COVID-19 situation and taking appropriate precautions to protect our members. We typically host a public open house on Tuesday evenings from 7:00pm to 9:00pm. To reduce the risk of exposure, we will not host open houses or other public events for the remainder of March (March 17, 24, and 31 open houses are cancelled). We will update you as the situation develops. 
+Meta Makers is closely monitoring the COVID-19 situation and taking appropriate precautions to protect our members. We typically host a public open house on Tuesday evenings from 7:00pm to 9:00pm. To reduce the risk of exposure, we will not host open houses or other public events for the remainder of March (March 17, 24, and 31 open houses are cancelled). We will update this page as the situation develops. 
 
 <!--Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.-->
 
