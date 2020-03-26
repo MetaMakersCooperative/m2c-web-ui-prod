@@ -1,14 +1,11 @@
-## Events
-
-### Tuesday Open House (cancelled)
-
 **Update - Meta Makers Response to COVID-19:**
 In accordance with the provicial state of emergency, Meta Makers Cooperative is closed to the public until further notice.
-
-<!--Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.-->
-
+<!--
+## Events
+### Tuesday Open House (cancelled)
+Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=bTJjLm1lbWJlcnNoaXBAZ21haWwuY29t&amp;src=ZW4uY2FuYWRpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%230B8043&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Meta%20Makers%20Cooperative" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
-
+-->
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit [makerspace in Windsor](https://goo.gl/maps/C1DEyxi6UdCPUZfK8). Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who help make Makers.
