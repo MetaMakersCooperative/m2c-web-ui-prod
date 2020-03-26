@@ -3,7 +3,7 @@
 ### Tuesday Open House (cancelled)
 
 **Update - Meta Makers Response to COVID-19:**
-In accordance with the provicial state of emergency, Meta Makers cooperative is closed to the public until further notice. Member access is restricted to fewer than 50 people at one time.
+In accordance with the provicial state of emergency, Meta Makers Cooperative is closed to the public until further notice.
 
 <!--Join us at the [makerspace](https://goo.gl/maps/C1DEyxi6UdCPUZfK8) any Tuesday for our open house event from 7:00 pm to 9:00 pm. Please let us know if you are dropping in.-->
 
