@@ -1,5 +1,5 @@
-**Update - Meta Makers Response to COVID-19:**
-In accordance with the provicial state of emergency, Meta Makers Cooperative is closed to the public until further notice. See our [policy](https://metamakers.org/assets/covid-19-policy.pdf).
+**COVID-19 Policy**
+Please see our [COVID-19 policy](https://metamakers.org/assets/covid-19-policy.pdf).
 
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit [makerspace in Windsor](https://goo.gl/maps/C1DEyxi6UdCPUZfK8). Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
