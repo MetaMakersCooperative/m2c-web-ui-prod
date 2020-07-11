@@ -37,8 +37,11 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 -	Computer Aided Manufacturing (CAM/CNC)
 - Podcasting
 
-![under construction](/assets/images/Facilities2.jpg "Our space is under construction")
-![under construction](/assets/images/Facilities.jpg "Our space is under construction")
+![makerspace](/assets/images/facilities_1.jpg "Our makerspace")
+![makerspace](/assets/images/facilities_2.jpg "Our makerspace")
+![makerspace](/assets/images/facilities_3.jpg "Our makerspace")
+![makerspace](/assets/images/facilities_4.jpg "Our makerspace")
+![makerspace](/assets/images/facilities_5.jpg "Our makerspace")
 
 ## Supporters
 Thanks to the businesses who have donated supplies and equipment:
