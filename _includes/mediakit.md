@@ -75,7 +75,8 @@ Thanks to these special people for their equipment donations and support:
 
 Special thanks to all of our members!
 
-## How to help?
+<h2 id="donate">How to help?</h2>
+
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
 A business can help with the following:
 
