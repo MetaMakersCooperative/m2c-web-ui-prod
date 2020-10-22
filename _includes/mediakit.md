@@ -12,7 +12,7 @@ Membership terms are offered on an annual, semi-annual or quarterly basis. Day a
 
 ## Sign up
 
-Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org). To can pay by PayPal, eTransfer (pay@metamakers.org), cash or cheque. Visit on an any Tuesday night from 7:00pm and 9:00pm to pay in person.
+Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org). To can pay by PayPal, eTransfer (pay@metamakers.org), cash or cheque. [Contact us](/#contact) to schedule a tour or sign up in person.
 
 Our membership rates are
 - $480 for 12 months ($40/month)
