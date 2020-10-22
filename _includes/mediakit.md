@@ -92,7 +92,9 @@ An individual can help with the following:
 -	Tools and Equipment
 -	Volunteer/Time
 
-Please [contact us](/#contact) to discuss your generous donation. 
+Please [contact us](/#contact) to discuss your generous donation or donate using PayPal 
+
+{% include paypal.html %}
 
 ## Future Vision
 
