@@ -5,6 +5,9 @@ Please see our [COVID-19 policy](https://metamakers.org/assets/covid-19-policy.p
 Meta Makers Cooperative (M2C) is a non-profit [makerspace in Windsor](https://goo.gl/maps/C1DEyxi6UdCPUZfK8). Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who help make Makers.
 
+## Join and Host Classes and Workshops
+Looking for a place to teach your skills and crafts? Become a member at Meta Makers Cooperative and have 24/7 use of the space to offer private and public classes.
+
 ## Membership
 Members benefit from access to a co-working space with tools and resources that they might not otherwise have access to. People come for the tools and stay to explore, collaborate and make. It affords them the opportunity to socialize, learn and teach.  Being a cooperative, our members are active and engaged in all aspects of our organization. 
 
@@ -50,6 +53,7 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 ## Supporters
 Thanks to the businesses who have donated supplies and equipment:
 
+[![Libro Credit Unioin](/assets/images/logos/libro.svg "Libro Credit Union")](https://www.libro.ca/)
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
 [![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
 [![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")](https://bikewindsoressex.com/)
@@ -57,7 +61,6 @@ Thanks to the businesses who have donated supplies and equipment:
 [![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")](http://renukitchenwindsor.com/)
 [![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
 [![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
-[![Guardian Glass](/assets/images/logos/guardian_glass_logo.png "Guardian Glass")](https://www.guardianglass.ca/)
 [![WE Tech Alliance](/assets/images/logos/wetech_logo.png "WE Tech Alliance")](https://www.wetech-alliance.com/)
 [![Empire Communications](/assets/images/logos/empire-logo.png "Empire Communications")](https://www.empire-team.com/)
 [![Filaments.ca](/assets/images/logos/filaments-logo.png "Filaments.ca")](https://filaments.ca/)
