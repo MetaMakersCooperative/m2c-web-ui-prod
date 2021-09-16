@@ -8,6 +8,8 @@ We are a social enterprise with a diverse array of skilled members who help make
 ## Join and Host Classes and Workshops
 Looking for a place to teach your skills and crafts? Become a member at Meta Makers Cooperative and have 24/7 use of the space to offer private and public classes.
 
+To host a class, complete our [event form](https://metamakers.org/assets/event.pdf) and email it to [directors@metamakers.org](mailto:directors@metamakers.org).
+
 ## Membership
 Members benefit from access to a co-working space with tools and resources that they might not otherwise have access to. People come for the tools and stay to explore, collaborate and make. It affords them the opportunity to socialize, learn and teach.  Being a cooperative, our members are active and engaged in all aspects of our organization. 
 
