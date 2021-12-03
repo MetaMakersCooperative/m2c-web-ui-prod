@@ -56,6 +56,7 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 Thanks to the businesses who have donated supplies and equipment:
 
 [![Libro Credit Unioin](/assets/images/logos/libro.svg "Libro Credit Union")](https://www.libro.ca/)
+[![Replitech](/assets/images/logos/replitech-logo.png "Replitech")](https://replitech.ca/)
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
 [![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
 [![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")](https://bikewindsoressex.com/)
@@ -65,7 +66,6 @@ Thanks to the businesses who have donated supplies and equipment:
 [![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
 [![WE Tech Alliance](/assets/images/logos/wetech_logo.png "WE Tech Alliance")](https://www.wetech-alliance.com/)
 [![Empire Communications](/assets/images/logos/empire-logo.png "Empire Communications")](https://www.empire-team.com/)
-[![Filaments.ca](/assets/images/logos/filaments-logo.png "Filaments.ca")](https://filaments.ca/)
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
