@@ -39,7 +39,8 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 -	Pottery
 -	Painting
 -	Computer Aided Design (CAD)
--	Computer Aided Manufacturing (CAM/CNC)
+-	CNC
+- 3D Printing
 - Podcasting
 
 ![makerspace](/assets/images/facility_1.jpg "Our makerspace")
