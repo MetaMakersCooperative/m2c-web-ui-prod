@@ -48,3 +48,5 @@ using PayPal or eTransfer ([pay@metamakers.org](mailto:pay@metamakers.org)).
 
 Thank you in advance for endorsing this opportunity to lead locally, and we look forward to welcoming
 you to the space!
+
+<a href="/" class="btn btn-primary">Back to Homepage</a>
