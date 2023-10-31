@@ -8,7 +8,7 @@
     height:100px;
   }
   .project-title {
-    padding: 80px;
+    padding: 60px;
   }
 }
 
@@ -16,8 +16,11 @@
   .project-logo{
     height:240px;
   }
+}
+
+@media (min-width: 651px) and (max-width: 1250px) {
   .project-title {
-    padding: 60px;
+    padding: 80px;
   }
 }
 
@@ -29,6 +32,9 @@
 
 @media (min-width: 1251px) {
   .carousel-inner{
-    max-height:600px;
+    max-height:500px;
+  }
+  .project-title {
+    padding: 130px;
   }
 }
