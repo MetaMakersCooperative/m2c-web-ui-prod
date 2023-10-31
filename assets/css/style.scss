@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@media (max-width: 480px) {
+@media (max-width: 650px) {
   .project-logo{
     height:100px;
   }
@@ -12,11 +12,23 @@
   }
 }
 
-@media (min-width: 481px) {
+@media (min-width: 651px) {
   .project-logo{
     height:240px;
   }
   .project-title {
     padding: 60px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .carousel-inner{
+    max-height:400px;
+  }
+}
+
+@media (min-width: 1251px) {
+  .carousel-inner{
+    max-height:600px;
   }
 }
