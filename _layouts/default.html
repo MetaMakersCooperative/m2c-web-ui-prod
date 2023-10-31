@@ -30,11 +30,11 @@
               justify-content: center;
               align-items: center;
               position: absolute;
-              z-index: 20;
+              z-index: 2;
               width: 100%;
               color:#ffffff;
               padding: 80px;
-              margin: 0px 80px;">
+              margin: 0px;">
               <img class="project-logo" src="https://metamakers.org/assets/images/logo-white.svg" style="height: 240px;" />
               <h1 class="project-name" style="
                 padding-left: 40px;
@@ -44,7 +44,7 @@
                 ">Meta Makers Cooperative</h1>
           </div>
           
-          <ol class="carousel-indicators">
+          <ol class="carousel-indicators" style="z-index:2;">
             <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
             <li data-target="#header-carousel" data-slide-to="1"></li>
             <li data-target="#header-carousel" data-slide-to="2"></li>
@@ -89,11 +89,12 @@
               <img class="d-block w-100" src="https://metamakers.org/assets/images/slides/Slide10.PNG" alt="Tenth slide">
             </div>
           </div>
-          <button class="carousel-control-prev" type="button" data-target="#header-carousel" data-slide="prev" style="width:80px">
+          
+          <button class="carousel-control-prev" type="button" data-target="#header-carousel" data-slide="prev" style="width:80px;z-index:2;">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
           </button>
-          <button class="carousel-control-next" type="button" data-target="#header-carousel" data-slide="next" style="width:80px">
+          <button class="carousel-control-next" type="button" data-target="#header-carousel" data-slide="next" style="width:80px;z-index:2;">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </button>
