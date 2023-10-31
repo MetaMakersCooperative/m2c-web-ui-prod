@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+.project-logo @media(max-width: 480px) {
+  height:100px;
+}
+.project-logo @media(min-width: 481px) {
+  height:240px;
+}
+.project-title @media(max-width: 480px) {
+  padding: 80px;
+}
+.project-title @media(min-width: 481px) {
+  padding: 60px;
+}
