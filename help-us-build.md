@@ -2,11 +2,15 @@
 
 Help us build a better makerspace for Windsor-Essex! We're fundraising to purchase building materials for our new facility.
 
+![construction](/assets/images/fund/construction.png "Building a new makerspace")
+
 ## About Meta Makers
 
 We opened Meta Makers Cooperative, Windsor's first community makerspace, in 2019.  A makerspace is a place where people can meet other makers and access tools and resources to make things.  For example, if you want to try woodworking, embroidery, pottery, or 3D printing, you could join a makerspace, make friends, and find all the tools you need to get started.
 
 Here are a few things our members made over the past 4 years:
+
+![creations](/assets/images/fund/creations.png "Made at Meta Makers")
 
 ## Help us build a better makerspace
 
@@ -49,18 +53,28 @@ As thanks for your contribution, we're offering prizes made here at our makerspa
 
 Show your support with a $10 donation and receive this Meta Makers sticker.  The sticker is roughly 2.5" x 3".
 
+![sticker](/assets/images/fund/sticker.jpg "M2C Sticker")
+
 ### Donate $25 and receive an M2C fridge magnet
 
 Show your support with a $25 donation and receive this 3D-printed Meta Makers fridge magnet.
+
+![magnet](/assets/images/fund/magnet.jpg "M2C Magnet")
 
 ### Donate $50 and receive an M2C keychain
 
 Show your support with a $50 donation and receive this 3D-printed Meta Makers keychain.
 
+![keychain](/assets/images/fund/keychain.jpg "M2C Keychain")
+
 ### Donate $75 and receive all our swag: an M2C sticker, fridge magnet, and keychain
 
 Show your support with a $75 donation and receive the full collection of M2C swag, including an M2C sticker, an M2C 3D-printed fridge magnet, and an M2C 3D-printed keychain.
 
+![allswag](/assets/images/fund/all3.png "All M2C Swag")
+
 ### Donate $100 and sign the wall in the new makerspace
 
 Show your support with a generous $100 donation and we'll recognize your contribution on our donor signature wall in the new makerspace.
+
+![thanks](/assets/images/fund/thanks.jpg "Signature")
