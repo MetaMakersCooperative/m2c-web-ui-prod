@@ -14,7 +14,7 @@ Here are a few things our members made over the past 4 years:
 
 ## Help us build a better makerspace
 
-Over the past four years, we learned that our makerspace isn't large enough to meet the needs of makers in Windsor-Essex.  As a volunteer-based nonprofit, we don't have the funds to purchase all of the construction materials that are needed to build the makerspace that Windsor needs.  By donating to Meta Nakers, you are building a better makerspace that you could join and enjoy in many different ways:
+Over the past four years, we learned that our makerspace isn't large enough to meet the needs of makers in Windsor-Essex.  As a volunteer-based nonprofit, we don't have the funds to purchase all of the construction materials that are needed to build the makerspace that Windsor needs.  By donating to Meta Makers, you are building a better makerspace that you could join and enjoy in many different ways:
 
 - Try a new hobby, craft, or art, such as weaving, pottery, woodworking, or printmaking
 - Meet new friends with common interests
