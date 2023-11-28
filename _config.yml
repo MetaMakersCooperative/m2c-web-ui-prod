@@ -4,3 +4,6 @@ description: Explore. Collaborate. Make.
 
 github:
   is_project_page: false
+
+plugins:
+- jekyll-seo-tag
