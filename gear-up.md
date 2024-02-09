@@ -39,7 +39,7 @@ Copper level & higher include a one-year membership. Brass includes a 6 months m
 The cogs have been specifically designed so that all five sizes mesh together to form a moving display.
 
 The M2C Gear Wall provides a working visual of the momentum we can build when we are all connected.
-Donations for the wall will be gratefully accepted until the unveiling of the installation in February 2024.
+Donations for the wall will be gratefully accepted until the unveiling of the installation in 2024.
 
 Please contact us by emailing [info@metamakers.org](mailto:info@metamakers.org) for more information, or to process cash or cheque. Online payment can be made
 using PayPal or eTransfer ([pay@metamakers.org](mailto:pay@metamakers.org)).
