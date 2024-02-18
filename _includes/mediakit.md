@@ -54,30 +54,22 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 [See our feature story in The Drive magazine.](https://thedrivemagazine.com/posts/meta-makers/)
 
 ## Supporters
-Thanks to the businesses who have donated supplies and equipment:
+Thanks to our sponsors:
+[![CANCAM CNC Machines](/assets/images/logos/cancam-logo.png "CANCAM CNC Machines")](https://www.cancam.ca/)
+[![WEtech Alliance](/assets/images/logos/wetech_logo.png "WEtech Alliance")](https://www.wetech-alliance.com/)
+[![Well Fed Nutrition](/assets/images/logos/wellfed-logo.jpg "Well Fed Nutrition")](https://wellfednutrition.ca/)
+[![Five Foot Two Pottery](/assets/images/logos/fivetwo-logo.png "Five Foot Two Pottery")](https://www.instagram.com/fivefoottwopottery/)
 
-[![Libro Credit Unioin](/assets/images/logos/libro.svg "Libro Credit Union")](https://www.libro.ca/)
-[![Replitech](/assets/images/logos/replitech-logo.png "Replitech")](https://replitech.ca/)
+Thanks to the other businesses that have supported us:
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
 [![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
-[![Bike Windsor](/assets/images/logos/bike_windsor_logo.png "Bike Windsor")](https://bikewindsoressex.com/)
-[![Stiemar Bakery](/assets/images/logos/stiemar_logo.png "Stiemar Bakery")](http://www.stiemar.com/)
-[![ReNu Kitchen](/assets/images/logos/renu_kitchen_logo.gif "ReNu Kitchen")](http://renukitchenwindsor.com/)
 [![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
-[![D&R Vacuum](/assets/images/logos/d_and_r_logo.jpg "D&R Vacuum")](https://www.drvacuum.ca/)
-[![WE Tech Alliance](/assets/images/logos/wetech_logo.png "WE Tech Alliance")](https://www.wetech-alliance.com/)
-[![Empire Communications](/assets/images/logos/empire-logo.png "Empire Communications")](https://www.empire-team.com/)
+
 
 Thanks to these special people for their equipment donations and support:
 - Bill Taylor, Danzig Enterprises
-- Jodi Green, Levigator Press
-- Andy Jun, ReNu Kitchen
-- Bob Regier, D&R Vacuum
-- Dan Ketch
-- Starr Meloche
-- Nathalie and Tom Griffore
-- Aaron Powers
-- Jeff Luxford
+- Robert
+- Aidan Smith and Joseph Rinehart
 
 Special thanks to all of our members!
 
