@@ -1,6 +1,3 @@
-**COVID-19 Policy**
-Please see our [COVID-19 policy](https://metamakers.org/assets/covid-19-policy.pdf).
-
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit [makerspace in Windsor](https://goo.gl/maps/C1DEyxi6UdCPUZfK8). Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who help make Makers.
@@ -26,7 +23,7 @@ Our membership rates are
 
 ## Facilities
 
-We are open and operating on the second floor of Sho Studios located at 628 Monmouth Rd., Windsor. We cater to the following interests:
+We are open and operating on the first floor of Sho Studios located at 628 Monmouth Rd., Windsor. We cater to the following interests:
 - Metalworking
 -	Woodworking
 -	Fibre arts
@@ -51,12 +48,20 @@ We are open and operating on the second floor of Sho Studios located at 628 Monm
 
 ## Supporters
 Thanks to our sponsors:
+
+
 [![CANCAM CNC Machines](/assets/images/logos/cancam-logo.png "CANCAM CNC Machines")](https://www.cancam.ca/)
 [![WEtech Alliance](/assets/images/logos/wetech_logo.png "WEtech Alliance")](https://www.wetech-alliance.com/)
-[![Well Fed Nutrition](/assets/images/logos/wellfed-logo.jpg "Well Fed Nutrition")](https://wellfednutrition.ca/)
-[![Five Foot Two Pottery](/assets/images/logos/fivetwo-logo.png "Five Foot Two Pottery")](https://www.instagram.com/fivefoottwopottery/)
+<a href="https://wellfednutrition.ca/"><img
+src="/assets/images/logos/wellfed-logo.jpg" alt="Well Fed Nutrition" width="200px" /> </a>
+<a href="https://www.instagram.com/fivefoottwopottery/"><img
+src="/assets/images/logos/fivetwo-logo.png" alt="Five Foot Two Pottery" width="200px" /></a>
+
+
 
 Thanks to the other businesses that have supported us:
+
+
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
 [![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
 [![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
