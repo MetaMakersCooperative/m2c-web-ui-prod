@@ -46,7 +46,7 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 
 [See our feature story in The Drive magazine.](https://thedrivemagazine.com/posts/meta-makers/)
 
-## Supporters
+<h2 id="supporters">Supporters</h2>
 Thanks to our sponsors:
 
 
