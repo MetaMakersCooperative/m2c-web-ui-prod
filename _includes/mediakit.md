@@ -56,7 +56,8 @@ Thanks to our sponsors:
 src="/assets/images/logos/wellfed-logo.jpg" alt="Well Fed Nutrition" width="200px" /> </a>
 <a href="https://www.instagram.com/fivefoottwopottery/"><img
 src="/assets/images/logos/fivetwo-logo.png" alt="Five Foot Two Pottery" width="200px" /></a>
-
+<a href="https://www.aburgproto.com"><img
+src="/assets/images/logos/arp-logo.svg" alt="Amherstburg Rapid Prototype" width="200px" /></a>
 
 
 Thanks to the other businesses that have supported us:
