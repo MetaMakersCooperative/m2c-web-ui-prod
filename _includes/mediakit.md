@@ -46,6 +46,33 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 
 [See our feature story in The Drive magazine.](https://thedrivemagazine.com/posts/meta-makers/)
 
+<div class="card">
+  <img src="/assets/images/fund/construction-cropped.png" class="card-img-top" alt="M2C Construction">
+  <div class="card-body">
+    <h5 class="card-title">M2C Construction Fund</h5>
+    <p class="card-text">Help us build a better makerspace for Windsor-Essex! We’re fundraising to purchase building materials for our new facility.</p>
+    <a href="/help-us-build" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
+  </div>
+</div>
+
+<div class="card" style="margin-top: 20px;">
+  <img src="/assets/images/gear-wall.png" class="card-img-top" alt="Gear Wall Concept">
+  <div class="card-body">
+    <h5 class="card-title">“Gearing Up” Growth Campaign</h5>
+    <p class="card-text">Meta Makers is moving to a new and improved facility. Help make state-of-the-art technology accessible to the community by contributing to our new interactive gear wall!</p>
+    <a href="/gear-up" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
+  </div>
+</div>
+
+<div class="card" style="margin-top: 20px;">
+  <img src="/assets/images/csrf-logo.png" class="card-img-top" alt="CSRF Funded by the Government of Canada">
+  <div class="card-body">
+    <h5 class="card-title">Meta Makers Cooperative Growth and Innovation Initiative Receives CSRF Funding</h5>
+    <p class="card-text"><b>Windsor, ON</b> - Meta Makers Cooperative (M2C) is receiving a $60,000 grant to improve and modernize their facilities funded by the Government of Canada under the Community Services Recovery Fund (CSRF).</p>
+    <a href="/csrf" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
+  </div>
+</div>
+
 <h2 id="supporters">Supporters</h2>
 Thanks to our sponsors:
 
