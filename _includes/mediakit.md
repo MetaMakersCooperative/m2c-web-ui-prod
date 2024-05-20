@@ -85,6 +85,10 @@ src="/assets/images/logos/wellfed-logo.jpg" alt="Well Fed Nutrition" width="200p
 src="/assets/images/logos/fivetwo-logo.png" alt="Five Foot Two Pottery" width="200px" /></a>
 <a href="https://www.aburgproto.com"><img
 src="/assets/images/logos/arp-logo.svg" alt="Amherstburg Rapid Prototype" width="200px" /></a>
+<a href="http://www.icingaccents.ca/"><img
+src="/assets/images/logos/icing-accents.jpg" alt="Icing Accents" width="200px" /></a>
+<a href="https://actualize.place"><img
+src="/assets/images/logos/actualize-place.png" alt="Actualize Place" width="200px" /></a>
 
 
 Thanks to the other businesses that have supported us:
