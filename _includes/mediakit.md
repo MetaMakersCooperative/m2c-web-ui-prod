@@ -93,7 +93,7 @@ src="/assets/images/logos/actualize-place.png" alt="Actualize Place" width="200p
 
 Thanks to the other businesses that have supported us:
 
-
+[![Libro Credit Unioin](/assets/images/logos/libro.svg "Libro Credit Union")](https://www.libro.ca/)
 [![Sho Studios](/assets/images/logos/sho_logo.png "Sho Studios")](https://shoartstudios.com/)
 [![Fusion Fiber Arts](/assets/images/logos/fusion_fiber_arts_logo.png "Fusion Fiber Arts")](https://www.facebook.com/Fusion-Fiber-Arts-264559844042799/)
 [![Levigator Press](/assets/images/logos/levigator_press_logo.gif "Levigator Press")](http://levigatorpress.ca/)
