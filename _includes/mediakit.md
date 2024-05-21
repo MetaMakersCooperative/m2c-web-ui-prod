@@ -74,7 +74,7 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 </div>
 
 <h2 id="supporters">Supporters</h2>
-Thanks to our sponsors:
+Thanks to our current sponsors:
 
 
 [![CANCAM CNC Machines](/assets/images/logos/cancam-logo.png "CANCAM CNC Machines")](https://www.cancam.ca/)
