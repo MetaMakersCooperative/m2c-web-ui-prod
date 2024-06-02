@@ -42,6 +42,8 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 
 
 ## News
+[Grand Opening of Windsor's Only Makerspace](https://bizxmagazine.com/events/grand-opening-of-windsors-only-makerspace/)
+
 [See our feature story in Bizx magazine (page 11).](https://bizxmagazine.com/biz-x-magazine-january-2024-volume-27-issue-1)
 
 [See our feature story in The Drive magazine.](https://thedrivemagazine.com/posts/meta-makers/)
