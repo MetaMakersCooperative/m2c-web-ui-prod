@@ -89,7 +89,8 @@ src="/assets/images/logos/arp-logo.svg" alt="Amherstburg Rapid Prototype" width=
 src="/assets/images/logos/icing-accents.jpg" alt="Icing Accents" width="200px" /></a>
 <a href="https://actualize.place"><img
 src="/assets/images/logos/actualize-place.png" alt="Actualize Place" width="200px" /></a>
-
+<a href="https://www.facebook.com/TheOldeBat"><img
+src="/assets/images/logos/olde-bat-dice.jpg" alt="Olde Bat Dice" width="200px" /></a>
 
 Thanks to the other businesses that have supported us:
 
