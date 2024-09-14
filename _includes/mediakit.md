@@ -48,6 +48,12 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 
 [See our feature story in The Drive magazine.](https://thedrivemagazine.com/posts/meta-makers/)
 
+<div style="padding-bottom: 20px;">
+    <h3>Grand Opening Video</h3>
+    <p>In case you missed it, watch the video from our Grand Opening on May 25th! Thanks <a href="https://kannex.ca">Kannex Media</a> for making this video.</p>
+    <iframe style="aspect-ratio: 16 / 9; width: 100%;" src="https://www.youtube.com/embed/jRKCQpYDlug?si=4dYL5svVIf6hTVua&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <div class="card">
   <img src="/assets/images/fund/construction-cropped.png" class="card-img-top" alt="M2C Construction">
   <div class="card-body">
