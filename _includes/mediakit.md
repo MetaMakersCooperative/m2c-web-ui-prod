@@ -25,18 +25,17 @@ Our membership rates are
 
 We are open and operating on the first floor of Sho Studios located at 628 Monmouth Rd., Windsor. We cater to the following interests:
 - Metalworking
--	Woodworking
--	Fibre arts
--	Leatherworking
--	Cosplay
--	Jewelry
--	Electronics
--	Software Development
--	Glasswork
--	Pottery
--	Painting
--	Computer Aided Design (CAD)
--	CNC
+- Woodworking
+- Fibre arts
+- Leatherworking
+- Cosplay
+- Jewelry
+- Electronics
+- Software Development
+- Glasswork
+- Painting
+- Computer Aided Design (CAD)
+- CNC
 - 3D Printing
 - Podcasting
 
