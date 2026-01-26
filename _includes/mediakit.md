@@ -54,15 +54,6 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 </div>
 
 <div class="card">
-  <img src="/assets/images/fund/construction-cropped.png" class="card-img-top" alt="M2C Construction">
-  <div class="card-body">
-    <h5 class="card-title">M2C Construction Fund</h5>
-    <p class="card-text">Help us build a better makerspace for Windsor-Essex! We’re fundraising to purchase building materials for our new facility.</p>
-    <a href="/help-us-build" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
-  </div>
-</div>
-
-<div class="card" style="margin-top: 20px;">
   <img src="/assets/images/IMG_1793.webp" class="card-img-top" alt="Interactive Gear Wall">
   <div class="card-body">
     <h5 class="card-title">“Gearing Up” Growth Campaign</h5>
