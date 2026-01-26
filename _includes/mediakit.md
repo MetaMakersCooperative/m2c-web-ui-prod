@@ -63,11 +63,11 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 </div>
 
 <div class="card" style="margin-top: 20px;">
-  <img src="/assets/images/gear-wall.png" class="card-img-top" alt="Gear Wall Concept">
+  <img src="/assets/images/gear-wall.jpg" class="card-img-top" alt="Interactive Gear Wall">
   <div class="card-body">
     <h5 class="card-title">“Gearing Up” Growth Campaign</h5>
-    <p class="card-text">Meta Makers is moving to a new and improved facility. Help make state-of-the-art technology accessible to the community by contributing to our new interactive gear wall!</p>
-    <a href="/gear-up" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
+    <p class="card-text">Donate to support Meta Makers and claim your spot on our interactive gear wall!</p>
+    <a href="https://www.zeffy.com/en-CA/ticketing/gearing-up-for-growth" class="btn btn-primary" style="background-color:#159957;border-color:#159957">Learn More</a>
   </div>
 </div>
 
