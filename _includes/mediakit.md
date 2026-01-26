@@ -63,7 +63,7 @@ We are open and operating on the first floor of Sho Studios located at 628 Monmo
 </div>
 
 <div class="card" style="margin-top: 20px;">
-  <img src="/assets/images/gear-wall.jpg" class="card-img-top" alt="Interactive Gear Wall">
+  <img src="/assets/images/IMG_1793.webp" class="card-img-top" alt="Interactive Gear Wall">
   <div class="card-body">
     <h5 class="card-title">“Gearing Up” Growth Campaign</h5>
     <p class="card-text">Donate to support Meta Makers and claim your spot on our interactive gear wall!</p>
