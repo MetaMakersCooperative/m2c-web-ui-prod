@@ -14,7 +14,7 @@ Membership terms are offered on an annual, semi-annual or quarterly basis. Day a
 
 ## Sign up
 
-Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org). To can pay by PayPal, eTransfer (pay@metamakers.org), cash or cheque. [Contact us](/#contact) to schedule a tour or sign up in person.
+Fill out our [membership form](https://metamakers.org/assets/membership_form.pdf) and send the form and a headshot photo of yourself to [membership@metamakers.org](mailto:membership@metamakers.org). You can purchase and automatically renew your membership [with Zeffy by clicking here](https://www.zeffy.com/en-CA/ticketing/meta-makers-co-operatives-memberships). You can also make membership payments by PayPal, eTransfer (pay@metamakers.org), cash or cheque. [Contact us](/#contact) to schedule a tour or sign up in person.
 
 Our membership rates are
 - $600 for 12 months ($50/month)
